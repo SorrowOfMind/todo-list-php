@@ -1,3 +1,4 @@
+<?php require "db-conn.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
